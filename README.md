@@ -1,2 +1,9 @@
 # backend-infra-lab
-System design, implementation, deployment, debugging, and maintenance. 
+A backend systems project focused on learning:
+- API design
+- Databases
+- Async processing
+- Infrastructure
+- Operations tooling
+
+This is a proof-of-concept syste, not a product.
